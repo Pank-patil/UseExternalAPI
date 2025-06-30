@@ -1,0 +1,95 @@
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\appsettings.Development.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\appsettings.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).staticwebassets.endpoints.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).exe
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).deps.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).runtimeconfig.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).pdb
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).csproj.AssemblyReference.cache
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).AssemblyInfoInputs.cache
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).AssemblyInfo.cs
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).csproj.CoreCompileInputs.cache
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).MvcApplicationPartsAssemblyInfo.cs
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).MvcApplicationPartsAssemblyInfo.cache
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\scopedcss\bundle\UseExternal APIS (ASP.NET CORE WEB API).styles.css
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.build.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.development.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.UseExternal APIS (ASP.NET CORE WEB API).Microsoft.AspNetCore.StaticWebAssets.props
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.UseExternal APIS (ASP.NET CORE WEB API).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.build.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExter.31A91880.Up2Date
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\refint\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).pdb
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).genruntimeconfig.cache
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\ref\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Interview 2025\UseExternal APIS (ASP.NET CORE WEB API)\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\appsettings.Development.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\appsettings.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).staticwebassets.endpoints.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).exe
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).deps.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).runtimeconfig.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).pdb
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).csproj.AssemblyReference.cache
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).AssemblyInfoInputs.cache
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).AssemblyInfo.cs
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).csproj.CoreCompileInputs.cache
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).MvcApplicationPartsAssemblyInfo.cs
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).MvcApplicationPartsAssemblyInfo.cache
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).sourcelink.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\scopedcss\bundle\UseExternal APIS (ASP.NET CORE WEB API).styles.css
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.build.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.development.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.UseExternal APIS (ASP.NET CORE WEB API).Microsoft.AspNetCore.StaticWebAssets.props
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.UseExternal APIS (ASP.NET CORE WEB API).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.build.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UseExternal APIS (ASP.NET CORE WEB API).props
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExter.31A91880.Up2Date
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\refint\UseExternal APIS (ASP.NET CORE WEB API).dll
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).pdb
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\UseExternal APIS (ASP.NET CORE WEB API).genruntimeconfig.cache
+D:\Interview 2025\UseExternalAPI\UseExternal APIS (ASP.NET CORE WEB API)\obj\Debug\net8.0\ref\UseExternal APIS (ASP.NET CORE WEB API).dll

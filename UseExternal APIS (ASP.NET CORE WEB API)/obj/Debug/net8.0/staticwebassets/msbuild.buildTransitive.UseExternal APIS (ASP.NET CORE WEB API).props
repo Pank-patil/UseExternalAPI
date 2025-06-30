@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UseExternal APIS (ASP.NET CORE WEB API).props" />
+</Project>

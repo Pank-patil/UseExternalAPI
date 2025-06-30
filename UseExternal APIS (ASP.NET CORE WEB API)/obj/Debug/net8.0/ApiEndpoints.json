@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "UseExternal_APIS__ASP.NET_CORE_WEB_API_.Controllers.CryptoController",
+    "Method": "Live",
+    "RelativePath": "api/Crypto/live",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
